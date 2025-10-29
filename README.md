@@ -83,3 +83,53 @@ node index.js
 Open your browser at:
 👉 http://localhost:5173 (frontend)
 👉 http://localhost:4000 (backend)
+🧠 Folder Structure
+Health-Wellness-App/
+│
+├── frontend/
+│   ├── index.html
+│   ├── package.json
+│   └── src/
+│       ├── main.jsx
+│       ├── App.jsx
+│       ├── index.css
+│       └── pages/
+│           ├── Home.jsx
+│           ├── Tools.jsx
+│           ├── Tracker.jsx
+│           ├── Prakriti.jsx
+│           ├── Meditation.jsx
+│           └── Contact.jsx
+│
+└── backend/
+    ├── index.js
+    └── package.json
+🚀 Future Enhancements
+
+User Authentication (JWT / Google Sign-in)
+
+MongoDB Database for permanent log storage
+
+Personalized health recommendations using AI
+
+Push Notifications for water reminders
+
+Mobile App version using React Native
+
+👨‍💻 Author & Credits
+
+Developed by: Rijin Johnson
+Institution: Asha M. Tarsadia Institute of Computer Science and Technology
+University: Uka Tarsadia University
+
+✨ Special thanks to open-source libraries (React, Express, Recharts, TailwindCSS) for powering this project.
+🧾 License
+
+This project is licensed under the MIT License — you can freely use and modify it for educational purposes.
+
+
+
+
+🧠 Folder Structure
+👉 http://localhost:5173 (frontend)
+👉 http://localhost:4000 (backend)
