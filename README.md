@@ -50,23 +50,21 @@ This application helps users build healthier habits through a holistic mix of **
 The user can analyze their *Prakriti (Vata, Pitta, Kapha)*, log water and sleep data, visualize it on charts, and meditate using the inbuilt breathing tool.
 
 ---
-
-## 🖼️ Screenshots
-
 ### 🏠 Home Page
-![Home Page](assets/home.png)
+![Home Page](frontend/src/assets/home.png)
 
 ### ⚙️ Tools Page
-![Tools Page](assets/tools.png)
+![Tools Page](frontend/src/assets/tool.png)
 
 ### 📊 Tracker Page
-![Tracker Page](assets/tracker.png)
+![Tracker Page](frontend/src/assets/tracker.png)
 
 ### 🌿 Prakriti Analysis
-![Prakriti Page](assets/prakriti.png)
+![Prakriti Page](frontend/src/assets/prakriti.png)
 
 ### 🧘 Meditation Page
-![Meditation Page](assets/meditation.png)
+![Meditation Page](frontend/src/assets/meditation.png)
+
 
 ---
 
