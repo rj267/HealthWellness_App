@@ -130,6 +130,3 @@ This project is licensed under the MIT License — you can freely use and modify
 
 
 
-🧠 Folder Structure
-👉 http://localhost:5173 (frontend)
-👉 http://localhost:4000 (backend)
