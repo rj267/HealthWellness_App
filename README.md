@@ -2,11 +2,6 @@
 
 A modern MERN Stack web application designed to help users monitor their daily health and wellness through **Ayurvedic principles (Vata, Pitta, Kapha)** combined with modern wellness tracking tools such as BMI, water intake, sleep tracking, and meditation.
 
----
-
-## 🔗 Live Demo
-[Click here to view](#)  
-*(Replace the `#` with your deployed link on Netlify or Render)*
 
 ---
 
